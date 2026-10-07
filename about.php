@@ -6,7 +6,7 @@ include 'includes/header.php';
 
 <section class="page-banner" style="background-image: linear-gradient(rgba(7,54,72,.65), rgba(7,54,72,.65)), url('images/vaal-river-morning.jpg');">
     <div class="container">
-        <h1 data-i18n="about.title">About Vaal River Adventures</h1>
+        <h1 data-i18n="about.title">About Vaal Adventures</h1>
         <p data-i18n="about.intro">A local, family-run tour company sharing the best of the Vaal Triangle.</p>
     </div>
 </section>
@@ -15,7 +15,7 @@ include 'includes/header.php';
     <div class="container split">
         <div>
             <h2 data-i18n="about.storyTitle">Our story</h2>
-            <p data-i18n="about.story1">Vaal River Adventures started in 2016 with one small boat and a big love for the river. Our founder grew up in Vanderbijlpark and wanted visitors to see the Vaal the way locals do.</p>
+            <p data-i18n="about.story1">Vaal Adventures started in 2016 with one small boat and a big love for the river. Our founder grew up in Vanderbijlpark and wanted visitors to see the Vaal the way locals do.</p>
             <p data-i18n="about.story2">Today we run river cruises, day trips to the Vredefort Dome and heritage tours in Sharpeville. We work with local guides, restaurants and craft sellers so that tourism money stays in our community.</p>
         </div>
         <figure>

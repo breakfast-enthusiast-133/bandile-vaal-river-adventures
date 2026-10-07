@@ -156,10 +156,10 @@ include 'includes/header.php';
         <aside>
             <h2 data-i18n="contact.findUs">Find us</h2>
             <address>
-                <strong>Vaal River Adventures</strong><br>
+                <strong>Vaal Adventures</strong><br>
                 12 Riverside Drive, Vanderbijlpark, 1911<br>
                 <a href="tel:+27169331234">016 933 1234</a><br>
-                <a href="mailto:info@vaalriveradventures.co.za">info@vaalriveradventures.co.za</a>
+                <a href="mailto:info@vaaladventures.co.za">info@vaaladventures.co.za</a>
             </address>
 
             <div class="table-wrap" style="margin: 1.5rem 0;">

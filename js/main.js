@@ -1,5 +1,5 @@
 /* ==========================================================
-   Vaal River Adventures - site scripts
+   Vaal Adventures - site scripts
    1. Mobile menu        4. Gallery lightbox
    2. Language switcher  5. Price calculator
    3. Back to top        6. Booking form validation

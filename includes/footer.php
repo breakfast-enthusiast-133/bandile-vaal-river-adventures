@@ -4,8 +4,8 @@
     <div class="container footer-grid">
         <div>
             <a href="index.php" class="logo">
-                <img src="images/logo.svg" alt="Vaal River Adventures logo" width="34" height="34">
-                <span>Vaal River Adventures</span>
+                <img src="images/logo.svg" alt="Vaal Adventures logo" width="34" height="34">
+                <span>Vaal Adventures</span>
             </a>
             <p data-i18n="footer.tagline">Guided river, nature and heritage tours in the Vaal Triangle since 2016.</p>
         </div>
@@ -15,7 +15,7 @@
             <address>
                 12 Riverside Drive, Vanderbijlpark, 1911<br>
                 <a href="tel:+27169331234"><i class="fa-solid fa-phone" aria-hidden="true"></i> 016 933 1234</a><br>
-                <a href="mailto:info@vaalriveradventures.co.za"><i class="fa-solid fa-envelope" aria-hidden="true"></i> info@vaalriveradventures.co.za</a>
+                <a href="mailto:info@vaaladventures.co.za"><i class="fa-solid fa-envelope" aria-hidden="true"></i> info@vaaladventures.co.za</a>
             </address>
         </div>
 
@@ -40,7 +40,7 @@
     </div>
 
     <div class="footer-bottom">
-        <p>&copy; <span id="year">2026</span> Vaal River Adventures. <span data-i18n="footer.rights">All rights reserved.</span></p>
+        <p>&copy; <span id="year">2026</span> Vaal Adventures. <span data-i18n="footer.rights">All rights reserved.</span></p>
     </div>
 </footer>
 

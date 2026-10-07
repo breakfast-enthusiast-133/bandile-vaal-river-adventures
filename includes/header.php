@@ -9,8 +9,8 @@ function navClass($page, $currentPage) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Vaal River Adventures: river cruises, Vredefort Dome day trips and heritage tours from Vanderbijlpark, Gauteng.">
-    <title><?php echo htmlspecialchars($pageTitle); ?> | Vaal River Adventures</title>
+    <meta name="description" content="Vaal Adventures: river cruises, Vredefort Dome day trips and heritage tours from Vanderbijlpark, Gauteng.">
+    <title><?php echo htmlspecialchars($pageTitle); ?> | Vaal Adventures</title>
     <link rel="icon" href="images/logo.svg" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,9 +23,9 @@ function navClass($page, $currentPage) {
 
 <header class="site-header">
     <div class="header-inner">
-        <a href="index.php" class="logo" aria-label="Vaal River Adventures home">
-            <img src="images/logo.svg" alt="Vaal River Adventures logo" width="34" height="34">
-            <span>Vaal River Adventures</span>
+        <a href="index.php" class="logo" aria-label="Vaal Adventures home">
+            <img src="images/logo.svg" alt="Vaal Adventures logo" width="34" height="34">
+            <span>Vaal Adventures</span>
         </a>
 
         <button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Open menu">

@@ -1,4 +1,4 @@
-# Vaal River Adventures (Web Development 3.2 final project)
+# Vaal Adventures (Web Development 3.2 final project)
 
 A tourism website for a made-up tour company in Vanderbijlpark, built with HTML, CSS, PHP and JavaScript.
 

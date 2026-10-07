@@ -56,10 +56,10 @@ window.sesotho = {
     'home.seePrices': 'Sheba ditheko',
 
     /* About */
-    'about.title': 'Ka Vaal River Adventures',
+    'about.title': 'Ka Vaal Adventures',
     'about.intro': 'Khampani ya maeto ya lehae e tsamaiswang ke lelapa, e arolelanang tse molemo ka ho fetisisa tsa Vaal Triangle.',
     'about.storyTitle': 'Pale ya rona',
-    'about.story1': 'Vaal River Adventures e qadile ka 2016 ka sekepe se le seng se senyenyane le lerato le leholo bakeng sa noka. Mothehi wa rona o holetse Vanderbijlpark mme o ne a batla hore baeti ba bone Vaal kamoo batho ba lehae ba e bonang kateng.',
+    'about.story1': 'Vaal Adventures e qadile ka 2016 ka sekepe se le seng se senyenyane le lerato le leholo bakeng sa noka. Mothehi wa rona o holetse Vanderbijlpark mme o ne a batla hore baeti ba bone Vaal kamoo batho ba lehae ba e bonang kateng.',
     'about.story2': 'Kajeno re tsamaisa maeto a sekepe nokeng, maeto a letsatsi ho ya Vredefort Dome le maeto a lefa Sharpeville. Re sebetsa le bataisi, direschorente le barekisi ba mesebetsi ya matsoho ba lehae hore tjhelete ya bohahlaodi e dule setjhabeng sa rona.',
     'about.caption': 'Noka ya Vaal haufi le Vanderbijlpark.',
     'about.valuesTitle': 'Seo re se emelang',
