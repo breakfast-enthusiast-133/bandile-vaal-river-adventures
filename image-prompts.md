@@ -24,8 +24,8 @@ Aim for about 1600px on the long side. If a picture is bigger than 500 KB, shrin
 **4. heritage-sharpeville.jpg** (4:5 portrait, Sharpeville card and tours page)
 > A respectful photo of a modern stone memorial with tall pillars in a peaceful garden in a South African township, green lawn, flower beds, a local tour guide speaking to a small group of visitors, soft afternoon light, calm and dignified mood. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
 
-**5. parys-town-river.jpg** (4:5 portrait, Parys card)
-> The small river town of Parys, South Africa, colourful cafes and art shops along a tree-lined street that leads to the Vaal River, people walking and sitting outside, sunny day. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
+**5. parys-town-river.jpg** (4:5 portrait, Vereeniging card)
+> A green riverside park in Vereeniging, South Africa, on the banks of the Vaal River, families relaxing on the lawn, restaurants and tall trees along the water, sunny day. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
 
 **6. vaal-river-morning.jpg** (16:10, About page and "best price" section)
 > Calm Vaal River in the early morning with light mist over the water, a lone kayaker in the distance, willow trees and reeds on the bank, soft pastel blue and peach sky. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
@@ -62,7 +62,7 @@ Aim for about 1600px on the long side. If a picture is bigger than 500 KB, shrin
 > A narrow hiking trail winding through grassy hills and rocky ridges in the Vredefort Dome, South Africa, two hikers in the distance, wide view, clear sky. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
 
 **16. parys-river-rapids.jpg**
-> White-water rapids on the Vaal River near Parys, South Africa, an inflatable raft with a group of people in helmets paddling through the rapids, splashes, rocks and trees. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
+> White-water rapids on the Vaal River, South Africa, an inflatable raft with a group of people in helmets paddling through the rapids, splashes, rocks and trees. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
 
 **17. sharpeville-memorial.jpg**
 > A peaceful memorial site in Sharpeville, South Africa, with rows of stone pillars and a reflective wall, flowers laid at the base, late afternoon light, calm and respectful mood. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.

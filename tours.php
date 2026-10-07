@@ -49,7 +49,7 @@ include 'includes/tours-data.php';
                 <ul class="check-list">
                     <li data-i18n="tours.d1">Return transport from Vanderbijlpark</li>
                     <li data-i18n="tours.d2">Guided hike with a geology guide</li>
-                    <li data-i18n="tours.d3">Lunch in Parys</li>
+                    <li data-i18n="tours.d3">Lunch at a riverside restaurant</li>
                     <li data-i18n="tours.d4">Entrance fees</li>
                 </ul>
                 <p><a href="https://whc.unesco.org/en/list/1162/" target="_blank" rel="noopener" data-i18n="tours.unesco">Read about the Vredefort Dome on the UNESCO website</a></p>

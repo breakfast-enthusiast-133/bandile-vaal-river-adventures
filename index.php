@@ -35,7 +35,7 @@ include 'includes/header.php';
                 <span class="corner"><i class="fa-solid fa-up-right-from-square" aria-hidden="true"></i></span>
                 <span class="map-pin" style="top: 30%; left: 18%;"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> Vanderbijlpark</span>
                 <span class="map-pin" style="top: 46%; left: 40%;"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> Sharpeville</span>
-                <span class="map-pin" style="top: 60%; left: 12%;"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> Parys</span>
+                <span class="map-pin" style="top: 60%; left: 12%;"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> Vereeniging</span>
                 <p data-i18n="home.mapCard">See us on the map</p>
             </a>
 
@@ -60,7 +60,7 @@ include 'includes/header.php';
 
             <div class="bento-card slider" aria-roledescription="carousel" aria-label="Vaal River highlights">
                 <div class="slide active" style="background-image:url('images/gallery/sunset-over-the-vaal.jpg')" data-caption="Golden sunsets over the Vaal River"></div>
-                <div class="slide" style="background-image:url('images/gallery/parys-river-rapids.jpg')" data-caption="River rapids near Parys"></div>
+                <div class="slide" style="background-image:url('images/gallery/parys-river-rapids.jpg')" data-caption="Rafting on the Vaal River"></div>
                 <div class="slide" style="background-image:url('images/gallery/tour-boat-at-jetty.jpg')" data-caption="Our tour boat at the Riverside jetty"></div>
                 <div class="slider-footer">
                     <p class="slide-caption" aria-live="polite">Golden sunsets over the Vaal River</p>
@@ -97,9 +97,9 @@ include 'includes/header.php';
                 <p data-i18n="home.card3">Walk through the history of Sharpeville and the Vaal Triangle with a local storyteller.</p>
             </a>
             <a class="dest-card" href="tours.php#vredefort-dome">
-                <img src="images/parys-town-river.jpg" alt="The river town of Parys with trees along the water" width="800" height="1000">
-                <h3>Parys</h3>
-                <p data-i18n="home.card4">A charming river town with cafes, art shops and lunch on our Dome day trip.</p>
+                <img src="images/parys-town-river.jpg" alt="The riverside in Vereeniging with trees along the water" width="800" height="1000">
+                <h3>Vereeniging</h3>
+                <p data-i18n="home.card4">A riverside city with green parks, restaurants and the best picnic spots on the Vaal.</p>
             </a>
         </div>
     </div>
