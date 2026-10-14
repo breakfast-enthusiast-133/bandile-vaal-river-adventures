@@ -97,7 +97,7 @@ include 'includes/header.php';
                 <p data-i18n="home.card3">Walk through the history of Sharpeville and the Vaal Triangle with a local storyteller.</p>
             </a>
             <a class="dest-card" href="tours.php#vredefort-dome">
-                <img src="images/parys-town-river.jpg" alt="The riverside in Vereeniging with trees along the water" width="800" height="1000">
+                <img src="images/vereeniging-park.jpg" alt="Green lawns and picnic shelters at a park in Vereeniging" width="800" height="1000">
                 <h3>Vereeniging</h3>
                 <p data-i18n="home.card4">A riverside city with green parks, restaurants and the best picnic spots on the Vaal.</p>
             </a>

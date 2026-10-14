@@ -24,7 +24,7 @@ Aim for about 1600px on the long side. If a picture is bigger than 500 KB, shrin
 **4. heritage-sharpeville.jpg** (4:5 portrait, Sharpeville card and tours page)
 > A respectful photo of a modern stone memorial with tall pillars in a peaceful garden in a South African township, green lawn, flower beds, a local tour guide speaking to a small group of visitors, soft afternoon light, calm and dignified mood. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
 
-**5. parys-town-river.jpg** (4:5 portrait, Vereeniging card)
+**5. vereeniging-park.jpg** (4:5 portrait, Vereeniging card)
 > A green riverside park in Vereeniging, South Africa, on the banks of the Vaal River, families relaxing on the lawn, restaurants and tall trees along the water, sunny day. Style: realistic travel photography, natural light, rich but not oversaturated colours, shot on a full-frame camera, sharp focus, no text, no watermark, no logos.
 
 **6. vaal-river-morning.jpg** (16:10, About page and "best price" section)
