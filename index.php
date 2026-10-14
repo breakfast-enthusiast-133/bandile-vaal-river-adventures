@@ -60,7 +60,7 @@ include 'includes/header.php';
 
             <div class="bento-card slider" aria-roledescription="carousel" aria-label="Vaal River highlights">
                 <div class="slide active" style="background-image:url('images/gallery/sunset-over-the-vaal.jpg')" data-caption="Golden sunsets over the Vaal River"></div>
-                <div class="slide" style="background-image:url('images/gallery/parys-river-rapids.jpg')" data-caption="Rafting on the Vaal River"></div>
+                <div class="slide" style="background-image:url('images/gallery/parys-river-rapids.jpg')" data-caption="River tubing on the Vaal"></div>
                 <div class="slide" style="background-image:url('images/gallery/tour-boat-at-jetty.jpg')" data-caption="Our tour boat at the Riverside jetty"></div>
                 <div class="slider-footer">
                     <p class="slide-caption" aria-live="polite">Golden sunsets over the Vaal River</p>

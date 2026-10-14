@@ -9,10 +9,13 @@ $photos = [
     'tour-boat-at-jetty.jpg'     => 'Our tour boat at the Riverside jetty',
     'fish-eagle-in-flight.jpg'   => 'A fish eagle near the islands',
     'dome-hiking-trail.jpg'      => 'Hiking trail in the Vredefort Dome',
-    'parys-river-rapids.jpg'     => 'Rafting on the Vaal River',
+    'parys-river-rapids.jpg'     => 'River tubing on the Vaal',
     'sharpeville-memorial.jpg'   => 'Sharpeville memorial garden',
     'riverside-picnic.jpg'       => 'Riverside picnic after a cruise',
     'night-sky-camp.jpg'         => 'Stars over a riverside camp',
+    'walking-with-lions.jpg'     => 'A guided walk with lions',
+    'downhill-trikes.jpg'        => 'Downhill trike rides',
+    'go-karting.jpg'             => 'Our indoor go-kart track',
 ];
 ?>
 
