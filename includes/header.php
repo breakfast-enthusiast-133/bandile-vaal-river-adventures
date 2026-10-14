@@ -44,6 +44,7 @@ function navClass($page, $currentPage) {
                         <li><a href="tours.php#river-cruises" data-i18n="nav.cruises">River Cruises</a></li>
                         <li><a href="tours.php#vredefort-dome" data-i18n="nav.dome">Vredefort Dome</a></li>
                         <li><a href="tours.php#heritage-tours" data-i18n="nav.heritage">Heritage Tours</a></li>
+                        <li><a href="tours.php#vereeniging" data-i18n="nav.vereeniging">Vereeniging</a></li>
                     </ul>
                 </li>
                 <li><a href="gallery.php"<?php echo navClass('gallery', $currentPage); ?> data-i18n="nav.gallery">Gallery</a></li>

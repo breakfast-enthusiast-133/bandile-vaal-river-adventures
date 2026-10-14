@@ -9,7 +9,7 @@ include 'includes/tours-data.php';
 <section class="page-banner" style="background-image: linear-gradient(rgba(7,54,72,.65), rgba(7,54,72,.65)), url('images/river-cruise-boat.jpg');">
     <div class="container">
         <h1 data-i18n="tours.title">Our tours</h1>
-        <p data-i18n="tours.intro">Three ways to experience the Vaal: on the water, in the hills and through its history.</p>
+        <p data-i18n="tours.intro">Four ways to experience the Vaal: on the water, in the hills, in the parks and through its history.</p>
     </div>
 </section>
 
@@ -79,6 +79,27 @@ include 'includes/tours-data.php';
         </div>
     </section>
 
+    <section id="vereeniging" class="tour">
+        <div class="split reverse">
+            <div>
+                <h2>Vereeniging</h2>
+                <div class="tour-meta">
+                    <span><i class="fa-regular fa-clock" aria-hidden="true"></i> <span data-i18n="tours.fourHours">4 hours</span></span>
+                    <span><i class="fa-solid fa-children" aria-hidden="true"></i> <span data-i18n="tours.family">Great for families</span></span>
+                </div>
+                <p data-i18n="tours.vereenigingText">Spend a relaxed morning in Vereeniging, the riverside city where the Vaal Triangle began. Stroll through green parks along the river, meet the animals at a family-friendly park and finish with a picnic under the trees.</p>
+                <h3 data-i18n="tours.included">What is included</h3>
+                <ul class="check-list">
+                    <li data-i18n="tours.v1">Return transport from Vanderbijlpark</li>
+                    <li data-i18n="tours.v2">Guided riverside walk</li>
+                    <li data-i18n="tours.v3">Park entrance and animal encounters</li>
+                    <li data-i18n="tours.v4">Picnic lunch</li>
+                </ul>
+            </div>
+            <img src="images/vereeniging-park.jpg" alt="Green lawns and picnic shelters at a park in Vereeniging" width="800" height="500">
+        </div>
+    </section>
+
     <section class="section">
         <div class="table-wrap">
             <table>
@@ -113,6 +134,12 @@ include 'includes/tours-data.php';
                         <td>10:00</td>
                         <td>R<?php echo $tours['heritage-tours']['adult']; ?></td>
                         <td>R<?php echo $tours['heritage-tours']['child']; ?></td>
+                    <tr>
+                        <td>Vereeniging</td>
+                        <td data-i18n="tours.daysVereeniging">Saturday and Sunday</td>
+                        <td>09:00</td>
+                        <td>R<?php echo $tours['vereeniging']['adult']; ?></td>
+                        <td>R<?php echo $tours['vereeniging']['child']; ?></td>
                     </tr>
                 </tbody>
             </table>

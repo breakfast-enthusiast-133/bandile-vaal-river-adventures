@@ -78,7 +78,7 @@ include 'includes/header.php';
     <div class="container">
         <div class="section-title">
             <h2 data-i18n="home.featured">Where we will take you</h2>
-            <p data-i18n="home.featuredText">Choose from three guided experiences, each led by a local guide who knows the Vaal.</p>
+            <p data-i18n="home.featuredText">Choose from four guided experiences, each led by a local guide who knows the Vaal.</p>
         </div>
         <div class="dest-grid">
             <a class="dest-card" href="tours.php#river-cruises">
@@ -96,7 +96,7 @@ include 'includes/header.php';
                 <h3 data-i18n="home.sharpeville">Sharpeville</h3>
                 <p data-i18n="home.card3">Walk through the history of Sharpeville and the Vaal Triangle with a local storyteller.</p>
             </a>
-            <a class="dest-card" href="tours.php#vredefort-dome">
+            <a class="dest-card" href="tours.php#vereeniging">
                 <img src="images/vereeniging-park.jpg" alt="Green lawns and picnic shelters at a park in Vereeniging" width="800" height="1000">
                 <h3>Vereeniging</h3>
                 <p data-i18n="home.card4">A riverside city with green parks, restaurants and the best picnic spots on the Vaal.</p>
