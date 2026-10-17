@@ -3,7 +3,6 @@ $pageTitle = 'Gallery';
 $currentPage = 'gallery';
 include 'includes/header.php';
 
-// Gallery photos: file name => caption. Add a photo by dropping it in images/gallery/ and adding a line here.
 $photos = [
     'sunset-over-the-vaal.jpg'   => 'Sunset over the Vaal River',
     'tour-boat-at-jetty.jpg'     => 'Our tour boat at the Riverside jetty',

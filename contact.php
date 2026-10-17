@@ -3,7 +3,6 @@ $pageTitle = 'Contact & Book';
 $currentPage = 'contact';
 include 'includes/tours-data.php';
 
-// ---------- Handle the booking form ----------
 $errors = [];
 $success = false;
 $form = ['name' => '', 'email' => '', 'phone' => '', 'tour' => '', 'date' => '', 'adults' => '2', 'children' => '0', 'message' => ''];
@@ -39,8 +38,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $tour = $tours[$form['tour']];
         $total = $form['adults'] * $tour['adult'] + $form['children'] * $tour['child'];
 
-        // Save the booking request. The data folder is blocked from the web by data/.htaccess.
-        // Vercel's disk is read-only, so there it goes to the temp folder (wiped between visits).
         $bookingsFile = getenv('VERCEL') ? sys_get_temp_dir() . '/bookings.csv' : __DIR__ . '/data/bookings.csv';
         $file = fopen($bookingsFile, 'a');
         if ($file && flock($file, LOCK_EX)) {
@@ -54,7 +51,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-// Escape a value before printing it in the page.
 function e($value) {
     return htmlspecialchars($value, ENT_QUOTES, 'UTF-8');
 }

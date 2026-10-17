@@ -17,7 +17,7 @@ Use FileZilla to upload the whole folder to your host's `public_html` (or `htdoc
 index.php, about.php, tours.php, gallery.php, contact.php   the five pages
 includes/header.php, footer.php   logo, menu and footer shared by every page
 includes/tours-data.php           tour names and prices, used in one place
-css/style.css                     all styles; the style guide is at the top
+css/style.css                     all styles; the style guide colours, fonts and sizes are the variables in :root
 js/main.js                        all JavaScript features
 js/lang-st.js                     Sesotho translations
 images/, images/gallery/          pictures (lowercase, hyphenated names)

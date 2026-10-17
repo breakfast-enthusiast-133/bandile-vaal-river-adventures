@@ -1,7 +1,4 @@
-/* Sesotho translations. Keys match the data-i18n attributes in the PHP pages.
-   English is the text already in the HTML, so only Sesotho is stored here. */
 window.sesotho = {
-    /* Navigation and footer */
     'nav.home': 'Lehae',
     'nav.about': 'Ka rona',
     'nav.tours': 'Maeto',
@@ -16,7 +13,6 @@ window.sesotho = {
     'footer.links': 'Dikgokahano tse molemo',
     'footer.rights': 'Ditokelo tsohle di sirelleditswe.',
 
-    /* Home */
     'home.title': 'Sibolla Vaal',
     'home.intro': 'Maeto a sekepe ha letsatsi le dikela, sekoti sa meteor se setsofadi ho feta bophelo lefatsheng, le dipale tse bopileng Afrika Borwa, kaofela di le hora e le nngwe ho tloha Johannesburg.',
     'home.cta1': 'Sheba maeto a rona',
@@ -55,7 +51,6 @@ window.sesotho = {
     'home.priceText': 'Maeto a sekepe a qala ho R350 bakeng sa motho e moholo mme bana ba ka tlase ho dilemo tse 12 ba lefa hoo e ka bang halofo. Dihlopha tsa batho ba 15 kapa ho feta di fumana theolelo ya 10%.',
     'home.seePrices': 'Sheba ditheko',
 
-    /* About */
     'about.title': 'Ka Vaal Adventures',
     'about.intro': 'Khampani ya maeto ya lehae e tsamaiswang ke lelapa, e arolelanang tse molemo ka ho fetisisa tsa Vaal Triangle.',
     'about.storyTitle': 'Pale ya rona',
@@ -80,7 +75,6 @@ window.sesotho = {
     'about.r4': 'Dipukisetso le tlhokomelo ya bareki',
     'about.partnersTitle': 'Ithute haholwanyane ka sebaka sena',
 
-    /* Tours */
     'tours.title': 'Maeto a rona',
     'tours.intro': 'Mekgwa e mene ya ho natefelwa ke Vaal: metsing, maralleng, dirapeng le nalaneng ya yona.',
     'tours.from': 'Ho tloha ho',
@@ -130,7 +124,6 @@ window.sesotho = {
     'tours.children': 'Bana',
     'tours.total': 'Kakaretso:',
 
-    /* Gallery */
     'gallery.title': 'Ditshwantsho le divideo',
     'gallery.intro': 'Dinako tse monate tsa maeto a rona. Tobetsa setshwantsho ho se bona se seholwanyane.',
     'gallery.photos': 'Ditshwantsho',
@@ -138,7 +131,6 @@ window.sesotho = {
     'gallery.video1': 'Leeto la sekepe ha letsatsi le dikela',
     'gallery.video2': 'Leeto la letsatsi ho ya Vredefort Dome',
 
-    /* Contact */
     'contact.title': 'Ikopanye le rona mme o bukise leeto',
     'contact.intro': 'Re romele kopo ya pukisetso mme re tla netefatsa sebaka sa hao nakong ya letsatsi le le leng la mosebetsi.',
     'contact.formTitle': 'Kopo ya pukisetso',

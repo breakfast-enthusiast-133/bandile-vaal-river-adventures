@@ -1,14 +1,5 @@
-/* ==========================================================
-   Vaal Adventures - site scripts
-   1. Mobile menu        4. Gallery lightbox
-   2. Language switcher  5. Price calculator
-   3. Back to top        6. Booking form validation
-   7. Home page photo slider
-   ========================================================== */
-
 document.getElementById('year').textContent = new Date().getFullYear();
 
-/* ---------- 1. Mobile menu ---------- */
 const navToggle = document.querySelector('.nav-toggle');
 const mainNav = document.getElementById('main-nav');
 
@@ -18,8 +9,6 @@ navToggle.addEventListener('click', () => {
     navToggle.innerHTML = isOpen ? '<i class="fa-solid fa-xmark"></i>' : '<i class="fa-solid fa-bars"></i>';
 });
 
-/* ---------- 2. Language switcher (English / Sesotho) ---------- */
-// English text lives in the HTML. Sesotho text lives in js/lang-st.js (window.sesotho).
 const langButton = document.querySelector('.lang-toggle');
 
 function setLanguage(lang) {
@@ -32,7 +21,7 @@ function setLanguage(lang) {
     });
     document.documentElement.lang = lang;
     langButton.querySelector('span').textContent = lang === 'st' ? 'English' : 'Sesotho';
-    try { localStorage.setItem('lang', lang); } catch (e) { /* storage blocked: language just won't be remembered */ }
+    try { localStorage.setItem('lang', lang); } catch (e) { }
 }
 
 langButton.addEventListener('click', () => {
@@ -40,12 +29,11 @@ langButton.addEventListener('click', () => {
 });
 
 let savedLang = 'en';
-try { savedLang = localStorage.getItem('lang') || 'en'; } catch (e) { /* use English */ }
+try { savedLang = localStorage.getItem('lang') || 'en'; } catch (e) { }
 if (savedLang === 'st') {
     setLanguage('st');
 }
 
-/* ---------- 3. Back to top ---------- */
 const backToTop = document.querySelector('.back-to-top');
 
 window.addEventListener('scroll', () => {
@@ -53,7 +41,6 @@ window.addEventListener('scroll', () => {
 });
 backToTop.addEventListener('click', () => window.scrollTo({ top: 0 }));
 
-/* ---------- 4. Gallery lightbox (gallery page only) ---------- */
 const lightbox = document.querySelector('.lightbox');
 
 if (lightbox) {
@@ -97,7 +84,6 @@ if (lightbox) {
     });
 }
 
-/* ---------- 5. Price calculator (tours page only) ---------- */
 const calcTour = document.getElementById('calc-tour');
 
 if (calcTour) {
@@ -117,8 +103,6 @@ if (calcTour) {
     updateTotal();
 }
 
-/* ---------- 6. Booking form validation (contact page only) ---------- */
-// The same rules are checked again in PHP, because JavaScript can be switched off.
 const bookingForm = document.getElementById('booking-form');
 
 if (bookingForm) {
@@ -156,7 +140,6 @@ if (bookingForm) {
     });
 }
 
-/* ---------- 7. Home page photo slider ---------- */
 const slider = document.querySelector('.slider');
 
 if (slider) {

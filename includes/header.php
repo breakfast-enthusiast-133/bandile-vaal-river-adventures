@@ -1,5 +1,4 @@
 <?php
-// Shared header: every page sets $pageTitle and $currentPage before including this file.
 function navClass($page, $currentPage) {
     return $page === $currentPage ? ' class="active" aria-current="page"' : '';
 }
